@@ -1,1 +1,1 @@
-# PCB-esp32-s3-wroom-1-breakout-board
+# ESP32-S3-WROOM-1 Breakout Board
