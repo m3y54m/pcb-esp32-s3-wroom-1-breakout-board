@@ -77,10 +77,6 @@ DocumentUniqueId=MSPQOKOY
 DocumentPath=Project Outputs for PROJECT-ESP32-S3-WROOM-1-BREAKOUT\Design Rule Check - ESP32-S3-WROOM-1-BREAKOUT.html
 DItemRevisionGUID=
 
-[GeneratedDocument2]
-DocumentPath=Project Outputs for PROJECT-ESP-C3-13-BREAKOUT\Design Rule Check - ESP-C3-13-BREAKOUT.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
