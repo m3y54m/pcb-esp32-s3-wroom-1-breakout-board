@@ -6,7 +6,7 @@ There is a 3.3V regulator on the board to convert 5V input voltage to 3.3V which
 
 ## Schematics
 
-![Schematic](docs/schematic.png)
+![Schematic](docs/ESP32-S3-WROOM-1-BREAKOUT.png)
 
 ## Pictures
 
